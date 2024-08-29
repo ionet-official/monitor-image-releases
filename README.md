@@ -1,6 +1,6 @@
 # Monitor Container Image
 
-This repository maintains version control for the Monitor Container Image.
+This repository maintains version control for the Monitor Container Images.
 
 ## Checkout the Github Releases of this repo
 
